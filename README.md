@@ -1,2 +1,2 @@
 # hsjunio13.github.io
-maratona
+Desafio github, primeiro repositorio.
